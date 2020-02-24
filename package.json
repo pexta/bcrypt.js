@@ -33,7 +33,7 @@
   "browser": "dist/bcrypt.js",
   "dependencies": {},
   "devDependencies": {
-    "bcrypt": "latest",
+    "bcrypt": "3.0.8",
     "closurecompiler": "~1",
     "metascript": "~1.0.0",
     "testjs": "~1"
